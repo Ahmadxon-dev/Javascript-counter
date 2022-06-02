@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}button{
+    padding: 10px 25px;
+}
+
+.red{
+    background: red;
+
+}
+.green{
+    background: green;
+}
